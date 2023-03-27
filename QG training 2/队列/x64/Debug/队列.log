@@ -1,0 +1,4 @@
+﻿  队列.cpp
+D:\QG training 2\队列.cpp(75): warning C4715: “front”: 不是所有的控件路径都返回值
+D:\QG training 2\队列.cpp(65): warning C4715: “dequeue”: 不是所有的控件路径都返回值
+  队列.vcxproj -> D:\QG training 2\队列\x64\Debug\队列.exe
